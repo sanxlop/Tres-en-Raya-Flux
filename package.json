@@ -1,0 +1,18 @@
+{
+  "name": "tresenflux",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "static -p 3000"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "babelify": "^6.4.0",
+    "browserify": "^11.2.0",
+    "jest-cli": "^0.8.0"
+  },
+  "dependencies": {},
+  "description": ""
+}
